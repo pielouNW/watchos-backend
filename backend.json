@@ -1,0 +1,29 @@
+[
+  {
+    "modelId": 1,
+    "modelName": "LFM2 350M Q3 K M",
+    "modelSizeMB": 193,
+    "parameterCountMillions": 350,
+    "author": "Liquid AI",
+    "fileName": "LFM2-350M-Q3_K_M.gguf",
+    "downloadURL": "https://huggingface.co/unsloth/LFM2-350M-GGUF/resolve/main/LFM2-350M-Q3_K_M.gguf"
+  },
+   {
+    "modelId": 2,
+    "modelName": "Bonsai-1.7B",
+    "modelSizeMB": 248,
+    "parameterCountMillions": 1700,
+    "author": "Prism ML",
+    "fileName": "Bonsai-1.7B.gguf",
+    "downloadURL": "https://huggingface.co/prism-ml/Bonsai-1.7B-gguf/resolve/main/Bonsai-1.7B.gguf"
+  },
+  {
+    "modelId": 3,
+    "modelName": "LFM2 700M Q3 K M",
+    "modelSizeMB": 388,
+    "parameterCountMillions": 700,
+    "author": "Liquid AI",
+    "fileName": "LFM2-700M-Q3_K_M.gguf",
+    "downloadURL": "https://huggingface.co/unsloth/LFM2-700M-GGUF/resolve/main/LFM2-700M-Q3_K_M.gguf"
+  }
+]
