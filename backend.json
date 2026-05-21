@@ -1,7 +1,7 @@
 [
   {
     "modelId": 1,
-    "modelName": "LFM2 350M Q3 K M",
+    "modelName": "LFM2 • 350M",
     "modelSizeMB": 193,
     "parameterCountMillions": 350,
     "author": "Liquid AI",
@@ -10,7 +10,7 @@
   },
    {
     "modelId": 2,
-    "modelName": "Bonsai-1.7B",
+    "modelName": "Bonsai • 1.7B",
     "modelSizeMB": 248,
     "parameterCountMillions": 1700,
     "author": "Prism ML",
@@ -19,7 +19,7 @@
   },
   {
     "modelId": 3,
-    "modelName": "LFM2 700M Q3 K M",
+    "modelName": "LFM2 • 700M",
     "modelSizeMB": 388,
     "parameterCountMillions": 700,
     "author": "Liquid AI",
