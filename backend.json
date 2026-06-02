@@ -38,10 +38,10 @@
   {
     "modelId": 5,
     "modelName": "LFM2.5 • 700M",
-    "modelSizeMB": 469,
+    "modelSizeMB": 446,
     "parameterCountMillions": 700,
     "author": "Liquid AI",
-    "fileName": "LFM2-700M-Q4_K_M.gguf",
-    "downloadURL": "https://huggingface.co/LiquidAI/LFM2-700M-GGUF/resolve/main/LFM2-700M-Q4_K_M.gguf"
+    "fileName": "LFM2-700M-Q4_0.gguf",
+    "downloadURL": "https://huggingface.co/LiquidAI/LFM2-700M-GGUF/resolve/main/LFM2-700M-Q4_0.gguf"
   }
 ]
